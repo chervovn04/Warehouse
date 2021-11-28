@@ -1,0 +1,3 @@
+C:/Users/cherv/source/School/Warehouse2/cmake-build-debug/CMakeFiles/Warehouse2.dir
+C:/Users/cherv/source/School/Warehouse2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cherv/source/School/Warehouse2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
